@@ -11,6 +11,7 @@
 
 ## Features
 - an extensive set of exploratory code and functions that provides features for working with the Pytorch and Pytorch Lightning libraries.
+- code snippets are both generic utility routines and full sample applications in many different DL areas.
 ## Credits
 
 This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [rayniervanegmond/pypackage](https://github.com/rayniervanegmond/pypackage) project template.
